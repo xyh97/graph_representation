@@ -16,7 +16,7 @@ parser.add_argument('--seed', type=int, default=1)
 
 args = parser.parse_args()
 dataset = args.dataset
-path = os.path.join(os.path.dirname(os.path.realpath(__file__)), '..', 'data', dataset)
+path = os.path.join(os.path.dirname(os.path.realpath(__file__)), '..', '..', 'data', dataset)
 random.seed(args.seed)
 np.random.seed(args.seed)
 torch.manual_seed(args.seed)
