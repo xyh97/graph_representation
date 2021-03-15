@@ -11,11 +11,20 @@ pip install -r requirements.txt
 ## Selected Methods
 
 - [DeepWalk]()
+
 - node2vec
+
 - GraphSAGE
+
 - VGAE
+
 - ARVGA
-- [DGI](../DGI)
-- GMI
-- GCN + SS
+
+- [DGI](./DGI)
+
+- [GMI](./GMI)
+
+- [GCN + SS](./SS-GCNs)
+
+  
 
