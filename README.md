@@ -12,9 +12,9 @@ Here we provide a full list of selected methods and you can click on any one to 
 
 - [DeepWalk](https://github.com/phanein/deepwalk)
 
-- node2vec
+- [node2vec](./Node2Vector)
 
-- GraphSAGE
+- [GraphSAGE](./SAGE)
 
 - [ARGA & ARVGA](./ARGA)
 
